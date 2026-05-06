@@ -1,16 +1,57 @@
-## Hi there 👋
+Hola! Soy Antonella Boynak 👋
 
-<!--
-**Antonellaboynak/Antonellaboynak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Licenciada en Administración de Empresas | Analista de Datos Junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Me especializo en el puente entre la gestión administrativa y el análisis de datos. Mi objetivo es transformar registros financieros y operativos en insights accionables mediante herramientas y visualizaciones interactivas.
+
+
+---
+
+
+## 📊 Sobre Mí
+
+- 🔭 **Actualmente:** Trabajando como Administrativa de cuentas corrientes y comercio exterior, optimizando procesos de conciliación y reportes financieros.
+
+- 🎓 **Formación:** Licenciada en Administración de Empresas, Analista de Datos y Licenciaa en Administración Hotelera.
+
+- ⚡ **Enfoque en Datos:** Utilizo herramientas como **SQL**, **Power BI** y **Python** para resolver problemas de negocio reales.
+
+- 🌍 **Idiomas:** Español (Nativo) e Inglés B2.
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack & Herramientas
+
+
+
+### Data Analytics & Visualización
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+### Business Intelligence & Deployment
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+
+
+## 📫 Contacto
+
+- **LinkedIn:** [/AntonellaBoynak](https://www.linkedin.com/in/antonella-boynak/)
+
+- **Email:** boynakantonella@gmail.com

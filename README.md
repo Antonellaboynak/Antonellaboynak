@@ -14,7 +14,7 @@ Me especializo en el puente entre la gestión administrativa y el análisis de d
 
 - 🔭 **Actualmente:** Trabajando como Administrativa de cuentas corrientes y comercio exterior, optimizando procesos de conciliación y reportes financieros.
 
-- 🎓 **Formación:** Licenciada en Administración de Empresas, Analista de Datos y Licenciaa en Administración Hotelera.
+- 🎓 **Formación:** Licenciada en Administración de Empresas, Analista de Datos y Licenciada en Administración Hotelera.
 
 - ⚡ **Enfoque en Datos:** Utilizo herramientas como **SQL**, **Power BI** y **Python** para resolver problemas de negocio reales.
 

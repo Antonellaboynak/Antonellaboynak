@@ -4,7 +4,7 @@
 ### Licenciada en Administración de Empresas | Analista de Datos Junior
 
 
-Me especializo en el puente entre la gestión administrativa y el análisis de datos. Mi objetivo es transformar registros financieros y operativos en insights accionables mediante herramientas y visualizaciones interactivas.
+Me especializo en el puente entre la gestión administrativa y el análisis de datos. Mi objetivo es transformar registros financieros y operativos en insights accionables mediante herramientas y visualizaciones interactivas, asi como también la automatización de procesos administrativos y de negocio.
 
 
 ---

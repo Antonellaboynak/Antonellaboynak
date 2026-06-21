@@ -18,7 +18,7 @@ Me especializo en el puente entre la gestión administrativa y el análisis de d
 
 - ⚡ **Enfoque en Datos:** Utilizo herramientas como **SQL**, **Power BI** y **Python** para resolver problemas de negocio reales.
 
-- 🌍 **Idiomas:** Español (Nativo) e Inglés B2.
+- 🌍 **Idiomas:** Español (Nativo) e Inglés
 
 
 
@@ -37,6 +37,7 @@ Me especializo en el puente entre la gestión administrativa y el análisis de d
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 
